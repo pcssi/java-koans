@@ -1,13 +1,6 @@
 *.class
-*/bin/*
-.metadata
-bin/*
-lib/build/bin/*
-lib/build/reports/*
-koans/data
-koans/data*
+bin/
 .classpath
 .project
-koans/app/data
-lib/file-compiler/bin
+koans/app/data/
 koans/app/config/file_hashes.dat
